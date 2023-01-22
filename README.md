@@ -31,8 +31,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/121490826/211630586-54885152-b4e2-4550-bb6c-c947935ed969.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/121490826/213913804-946c9e10-6b32-4373-afd8-eae395c1b0c1.png)
 
 
 ## Result:
